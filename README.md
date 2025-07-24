@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imammularif
-- 👀 I’m interested in football
+- 👀 I’m interested in football/gaming
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
