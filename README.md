@@ -1,4 +1,6 @@
-SQL & Database Enthusiast | IT Support Background Focused on data accuracy, performance, and system reliability “Technology should make life easier — and I love making that happen.”  
+SQL & Database Enthusiast with IT Support Experience
+Focused on data accuracy, performance, and system reliability.
+“Technology should make life easier — and I love making it happen.”
   - 📧 [imammularif@gmail.com](mailto:imammularif@gmail.com)  
   - 🔗 [LinkedIn](https://www.linkedin.com/in/imammularif/)  
 
