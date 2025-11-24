@@ -1,7 +1,6 @@
 SQL & Database Enthusiast | IT Support Background Focused on data accuracy, performance, and system reliability “Technology should make life easier — and I love making that happen.”  
   - 📧 [imammularif@gmail.com](mailto:imammularif@gmail.com)  
   - 🔗 [LinkedIn](https://www.linkedin.com/in/imammularif/)  
-  - 📸 [Instagram](https://www.instagram.com/imammularf/)
 
 
 
