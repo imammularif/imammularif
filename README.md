@@ -4,4 +4,4 @@ I simplify complex problems into efficient workflows.
 "Making technology work smarter, not harder."
 
 📧 imammularif@gmail.com
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/imammularif/)
