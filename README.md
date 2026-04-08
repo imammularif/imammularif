@@ -25,15 +25,8 @@
 
 ---
 
+
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imammularif&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=imammularif&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=imammularif&theme=tokyonight)
 
@@ -41,7 +34,7 @@
 
 ## 🏆 GitHub Trophy
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=imammularif&theme=tokyonight&no-frame=true&row=1)
+
 
 
 ---
