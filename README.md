@@ -19,7 +19,7 @@ I simplify complex data problems into clear, actionable insights.
 
 ## 🏆 GitHub Trophy
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=imammularif&theme=tokyonight&no-frame=true&row=1)
+
 
 ---
 
