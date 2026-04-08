@@ -5,12 +5,14 @@ I simplify complex data problems into clear, actionable insights.
 
 ## 💻 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![My Skills](https://skillicons.dev/icons?i=js,java,php,flutter,react,nodejs,laravel,aws,docker,mysql,figma&perline=10)
+
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_LO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LO&layout=compact&theme=tokyonight)
 
 📧 imammularif@gmail.com
 
