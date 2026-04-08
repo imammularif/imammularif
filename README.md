@@ -12,7 +12,7 @@ I simplify complex data problems into clear, actionable insights.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_LO&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imammularif&layout=compact&theme=tokyonight)
 
 📧 imammularif@gmail.com
 
