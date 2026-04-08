@@ -1,10 +1,22 @@
+## 👋 Hi, I'm Imam Mularif
+
+🚀 Data Analyst | AI/ML & Data Science Explorer  
+
+Passionate about transforming raw data into meaningful insights and building intelligent solutions.  
+I enjoy working with data, databases, and modern tools to solve real-world problems.
+
+💡 Focused on data analysis, visualization, and machine learning using Python & SQL.
+
+
 ## 💻 Tech Stack
 
 ### 🧠 Data & Backend
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
 ![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle)
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
 
 ### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
