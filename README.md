@@ -1,13 +1,13 @@
 ## 👋 Data Analyst | AI/ML & Data Science Explorer
 
-Passionate about data accuracy, analytics, and machine learning solutions.  
-I simplify complex data problems into clear, actionable insights.
+🚀 Passionate about data accuracy, analytics, and machine learning solutions.  
+💡 Turning complex data into clear, actionable insights.
 
 ---
 
-## 💻 Tech Stack
+## ⚡ Tech Stack & Tools
 
-![My Skills](https://skillicons.dev/icons?i=python,js,java,php,react,nodejs,laravel,mysql,docker,aws,figma)
+![My Skills](https://skillicons.dev/icons?i=python,postgres,mysql,js,react,nodejs,docker,aws,figma,vscode&perline=5)
 
 ---
 
