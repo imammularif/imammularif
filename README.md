@@ -9,8 +9,6 @@
 
 ## 💻 Tech Stack
 
-## 💻 Tech Stack
-
 ### 🧠 Data & Backend
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=databricks)
