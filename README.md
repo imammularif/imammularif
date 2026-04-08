@@ -7,21 +7,7 @@ I simplify complex data problems into clear, actionable insights.
 
 ## 💻 Tech Stack
 
-## 💻 Tech Stack
-
-![My Skills](https://skillicons.dev/icons?i=python,postgres,mysql,html,css,js,react,gcp,docker,vscode,figma&perline=6)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=imammularif&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophy
-
-
+![My Skills](https://skillicons.dev/icons?i=python,js,java,php,react,nodejs,laravel,mysql,docker,aws,figma)
 
 ---
 
