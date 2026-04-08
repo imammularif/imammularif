@@ -14,6 +14,9 @@ I simplify complex data problems into clear, actionable insights.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imammularif&layout=compact&theme=tokyonight&cache_seconds=86400)
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imammularif&show_icons=true)
+
 📧 imammularif@gmail.com
 
 🔗 [LinkedIn](https://www.linkedin.com/in/imammularif/)
