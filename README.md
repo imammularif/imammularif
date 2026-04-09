@@ -21,7 +21,7 @@ I enjoy working with data, databases, and modern tools to solve real-world probl
 
 ### ⚙️ Tools
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-white?style=for-the-badge&logo=googlecloud)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
 ---
