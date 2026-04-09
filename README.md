@@ -14,7 +14,6 @@ I enjoy working with data, databases, and modern tools to solve real-world probl
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle)
 
 ### 🌐 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
