@@ -1,57 +1,41 @@
-## 👋 Hi, I'm ImammulArif
+## 👋 Hi, I'm Imammul Arif
 
-🚀 Data Analyst | AI/ML & Data Science Explorer  
+🚀 Data Analyst | SQL, Python, BigQuery  
 
-Passionate about transforming raw data into meaningful insights and building intelligent solutions.  
-I enjoy working with data, databases, and modern tools to solve real-world problems.
+I specialize in transforming raw data into actionable insights to support business decision-making.  
+Experienced in data querying, data cleaning, and building dashboards using modern data tools.
 
-💡 Focused on data analysis, visualization, and machine learning using Python & SQL.
+💡 Strong focus on data analysis, visualization, and data-driven problem solving.
 
+---
 
 ## 💻 Tech Stack
 
-### 🧠 Data & Backend
+### 🧠 Data & Analytics
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
+![BigQuery](https://img.shields.io/badge/BigQuery-Data_Warehouse-blue?style=for-the-badge&logo=googlebigquery)
 
-### 🤖 Data Science & Machine Learning
+### 📊 Data Visualization & BI
+![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-DataViz-orange?style=for-the-badge&logo=google)
+
+### 🤖 Data Science (Basic)
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-orange?style=for-the-badge&logo=scikitlearn)
 
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![CDN](https://img.shields.io/badge/CDN-Network-blueviolet?style=for-the-badge&logo=cloudflare)
-
-### 📊 Data Visualization & BI
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-DataViz-orange?style=for-the-badge&logo=google)
-![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau)
-
-### ⚙️ Tools, Cloud & Environment
+### ⚙️ Tools & Environment
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-white?style=for-the-badge&logo=googlecloud)
-![BigQuery](https://img.shields.io/badge/BigQuery-Data_Warehouse-blue?style=for-the-badge&logo=googlebigquery)
-![Google Colab](https://img.shields.io/badge/Google_Colab-Notebook-orange?style=for-the-badge&logo=google)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![DBeaver](https://img.shields.io/badge/DBeaver-Database_Tool-brown?style=for-the-badge&logo=databricks)
-![draw.io](https://img.shields.io/badge/draw.io-Diagram_Tool-orange?style=for-the-badge&logo=diagramsdotnet)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
-
 
 ---
-
 
 ## 📊 GitHub Stats
 
@@ -59,17 +43,9 @@ I enjoy working with data, databases, and modern tools to solve real-world probl
 
 ---
 
-## 🏆 GitHub Trophy
-
-
-
-
----
-
 ## 🎯 Interests
 
 📊 Data Analysis & Visualization  
-🤖 Machine Learning & AI  
 📈 Business Intelligence & Insights  
+🤖 Machine Learning (Exploration)  
 ☁️ Cloud Computing (Google Cloud)  
-🌐 Web-based Data Applications  
