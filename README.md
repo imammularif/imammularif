@@ -16,6 +16,7 @@ Experienced in data querying, data cleaning, and building dashboards using moder
 ![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle)
 ![BigQuery](https://img.shields.io/badge/BigQuery-Data_Warehouse-blue?style=for-the-badge&logo=googlebigquery)
 
 ### 📊 Data Visualization & BI
