@@ -3,49 +3,52 @@
 🚀 Data Analyst | AI/ML & Data Science Explorer  
 
 Passionate about transforming raw data into meaningful insights and building intelligent solutions.  
-I enjoy working with data, databases, and modern tools to solve real-world problems.
+I enjoy solving real-world problems using data, databases, and modern tools.
 
-💡 Focused on data analysis, visualization, and machine learning using Python & SQL.
-
+---
 
 ## 💻 Tech Stack
 
 ### 🧠 Data & Backend
-- 🐍 Python
-- 🗄️ MySQL / PostgreSQL / Oracle
-- 🧠 SQL
+🐍 Python  
+🧠 SQL  
+🗄️ MySQL | PostgreSQL | Oracle  
+⚙️ PHP  
 
 ### 🌐 Frontend
-- 🌐 HTML, CSS, JavaScript
-- ⚛️ React
+🌐 HTML | CSS | JavaScript  
+⚛️ React  
+⚡ CDN  
 
-### ⚙️ Tools & Cloud
-- ☁️ Google Cloud
-- 🐳 Docker
-- 🐧 Linux / 🪟 Windows
-- 🧰 VS Code, DBeaver
-- 📊 Looker Studio, Jupyter, Colab
-
----
-
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=imammularif&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophy
-
-
-
+### ⚙️ Tools, Cloud & Environment
+☁️ Google Cloud  
+📊 Looker Studio  
+📓 Jupyter Notebook | Google Colab  
+🐳 Docker  
+🧰 DBeaver  
+🖥️ VS Code  
+🎨 Figma  
+🐧 Linux | 🪟 Windows  
 
 ---
 
 ## 🎯 Interests
 
-📊 Data Analysis & Visualization  
-🤖 Machine Learning & AI  
-📈 Business Intelligence & Insights  
-☁️ Cloud Computing (Google Cloud)  
-🌐 Web-based Data Applications  
+- 📊 Data Analysis & Visualization  
+- 🤖 Machine Learning & AI  
+- 📈 Business Intelligence & Insights  
+- ☁️ Cloud Computing  
+- 🌐 Web-based Data Applications  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imammularif&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect with me
+
+📧 imammularif@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/imammularif/)
