@@ -23,12 +23,12 @@ Experienced in data querying, data cleaning, and building dashboards using moder
 ![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-DataViz-orange?style=for-the-badge&logo=google)
 
-### 🤖 Data Science (Basic)
+### 🤖 Data Science & Machine Learning
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-orange?style=for-the-badge&logo=scikitlearn)
 
-### ⚙️ Tools & Environment
+### ⚙️ Tools, Cloud & Environment
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-white?style=for-the-badge&logo=googlecloud)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
@@ -36,6 +36,9 @@ Experienced in data querying, data cleaning, and building dashboards using moder
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
 ![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+![DBeaver](https://img.shields.io/badge/DBeaver-Database_Tool-brown?style=for-the-badge&logo=databricks)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 
 ---
 
