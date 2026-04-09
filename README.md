@@ -25,7 +25,6 @@ I enjoy working with data, databases, and modern tools to solve real-world probl
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![CDN](https://img.shields.io/badge/CDN-Network-blueviolet?style=for-the-badge&logo=cloudflare)
 
-### ⚙️ Tools & Cloud
 ### ⚙️ Tools, Cloud & Environment
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-white?style=for-the-badge&logo=googlecloud)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-DataViz-orange?style=for-the-badge&logo=google)
