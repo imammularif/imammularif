@@ -50,4 +50,5 @@ Experienced in data querying, data cleaning, and building dashboards using moder
 📊 Data Analysis & Visualization  
 📈 Business Intelligence & Insights  
 🤖 Machine Learning (Exploration)  
-☁️ Cloud Computing (Google Cloud)  
+☁️ Cloud Computing (Google Cloud) 
+🌐 Web-based Data Applications
