@@ -1,4 +1,4 @@
-## 👋 Hi, I'm ImamMularif
+## 👋 Hi, I'm ImammulArif
 
 🚀 Data Analyst | AI/ML & Data Science Explorer  
 
