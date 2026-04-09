@@ -28,6 +28,12 @@ Experienced in data querying, data cleaning, and building dashboards using moder
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-orange?style=for-the-badge&logo=scikitlearn)
 
+### 🌐 Full-Stack (Basic)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+
 ### ⚙️ Tools, Cloud & Environment
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-white?style=for-the-badge&logo=googlecloud)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
@@ -39,6 +45,10 @@ Experienced in data querying, data cleaning, and building dashboards using moder
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
 ![DBeaver](https://img.shields.io/badge/DBeaver-Database_Tool-brown?style=for-the-badge&logo=databricks)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+
+### 💻 Command Line & CLI
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
+![Terminal](https://img.shields.io/badge/Terminal-black?style=for-the-badge&logo=windows-terminal)
 
 ---
 
