@@ -23,7 +23,7 @@ Experienced in data querying, data cleaning, and building dashboards using moder
 ![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-DataViz-orange?style=for-the-badge&logo=google)
 
-### 🤖 Data Science & Machine Learning
+### 🤖 Data Science (Basic)
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-orange?style=for-the-badge&logo=scikitlearn)
