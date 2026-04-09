@@ -34,6 +34,7 @@ Experienced in data querying, data cleaning, and building dashboards using moder
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
 ---
