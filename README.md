@@ -27,6 +27,7 @@ I enjoy working with data, databases, and modern tools to solve real-world probl
 
 ### ⚙️ Tools, Cloud & Environment
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-white?style=for-the-badge&logo=googlecloud)
+![BigQuery](https://img.shields.io/badge/BigQuery-Data_Warehouse-blue?style=for-the-badge&logo=googlebigquery)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-DataViz-orange?style=for-the-badge&logo=google)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-Notebook-orange?style=for-the-badge&logo=google)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
