@@ -46,9 +46,9 @@ I believe that data is not just about numbers — it’s about clarity, impact, 
 
 ## 📫 Connect With Me  
 
-- 💼 LinkedIn: https://www.linkedin.com/in/imammularif/  
+- 💼 LinkedIn: [Imam Mularif](https://www.linkedin.com/in/imammularif/)  
+- 🌐 Portfolio: [Personal Web Portfolio](https://imammularif.github.io/My-Portofolio/)  
 - 📧 Email: imammularif@gmail.com  
-
 ---
 
 ## 💻 Tech Stack
