@@ -29,6 +29,16 @@ Experienced in data querying, data cleaning, and building dashboards using moder
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-orange?style=for-the-badge&logo=scikitlearn)
 ![MLflow](https://img.shields.io/badge/MLflow-Tracking-blue?style=for-the-badge&logo=mlflow)
 
+#### 📈 Advanced Analytics / Modeling
+![Predictive Modeling](https://img.shields.io/badge/Predictive-Modeling-red?style=for-the-badge)
+![Model Monitoring](https://img.shields.io/badge/Model-Monitoring-orange?style=for-the-badge)
+
+
+### 🔄 Data Engineering & Pipelines
+![ETL Pipelines](https://img.shields.io/badge/ETL-Pipelines-blueviolet?style=for-the-badge)
+![Data Validation](https://img.shields.io/badge/Data-Validation-green?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data-Cleaning-blue?style=for-the-badge)
+
 ### 🌐 Full-Stack (Basic)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
@@ -46,6 +56,11 @@ Experienced in data querying, data cleaning, and building dashboards using moder
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
 ![DBeaver](https://img.shields.io/badge/DBeaver-Database_Tool-brown?style=for-the-badge&logo=databricks)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Google Cloud Platform](https://img.shields.io/badge/GCP-Google_Cloud-white?style=for-the-badge&logo=googlecloud)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft-Fabric-blue?style=for-the-badge&logo=microsoft)
+![Prometheus](https://img.shields.io/badge/Prometheus-orange?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-black?style=for-the-badge&logo=grafana)
+![Microsoft Office Specialist](https://img.shields.io/badge/MOS-Microsoft_Office-red?style=for-the-badge&logo=microsoftoffice)
 
 ### 💻 Command Line & CLI
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
@@ -61,8 +76,10 @@ Experienced in data querying, data cleaning, and building dashboards using moder
 
 ## 🎯 Interests
 
-- 📊 Data Analysis & Visualization  
-- 📈 Business Intelligence & Insights  
-- 🤖 Machine Learning (Exploration)  
-- ☁️ Cloud Computing (Google Cloud)  
-- 🌐 Web-based Data Applications  
+- 🧠 Data & Analytics
+- 📊 Data Visualization & BI
+- 🤖 Data Science & Machine Learning
+- 🔄 Data Engineering & Pipelines 
+- ⚙️ Tools, Cloud & Environment
+- 🌐 Full-Stack (Basic)
+- 💻 Command Line & CLI 
