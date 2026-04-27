@@ -27,6 +27,7 @@ Experienced in data querying, data cleaning, and building dashboards using moder
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-orange?style=for-the-badge&logo=scikitlearn)
+![MLflow](https://img.shields.io/badge/MLflow-Tracking-blue?style=for-the-badge&logo=mlflow)
 
 ### 🌐 Full-Stack (Basic)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
