@@ -1,11 +1,53 @@
-## 👋 Hi, I'm Imammul Arif
+## 👋 Hi, I'm Imam Mularif  
 
-🚀 Data Analyst | SQL, Python, BigQuery  
+🚀 **Data Analyst | Data Science & Machine Learning Enthusiast**  
 
-I specialize in transforming raw data into actionable insights to support business decision-making.  
-Experienced in data querying, data cleaning, and building dashboards using modern data tools.
+I specialize in transforming raw data into actionable insights and building data-driven solutions that solve real-world problems.  
+With a strong foundation in SQL and Python, I work across the full data lifecycle — from data extraction and validation to modeling and monitoring.
 
-💡 Strong focus on data analysis, visualization, and data-driven problem solving.
+---
+
+## 💡 What I Do  
+
+- 📊 Analyze and explore data to uncover meaningful insights  
+- 🛠️ Build and manage ETL pipelines for reliable data workflows  
+- 🤖 Develop predictive models and track experiments  
+- 📈 Create dashboards and visualizations for decision-making  
+- ⚙️ Monitor and maintain data systems and machine learning models  
+
+---
+
+## 🧠 Core Expertise  
+
+**Data & Analytics:**  
+SQL (PostgreSQL, MySQL, Oracle), BigQuery  
+
+**Data Science:**  
+Python (Pandas, NumPy, Scikit-learn), MLflow  
+
+**Data Engineering:**  
+ETL Pipelines, Data Cleaning, Data Validation  
+
+**Modeling & Monitoring:**  
+Predictive Modeling, Model Monitoring & Maintenance  
+
+**Tools & Platforms:**  
+Google Cloud Platform (GCP), Microsoft Fabric, Prometheus, Grafana  
+
+---
+
+## 🌍 Philosophy  
+
+> “Good data tells a story. Great data drives decisions.”  
+
+I believe that data is not just about numbers — it’s about clarity, impact, and building intelligent systems that scale.
+
+---
+
+## 📫 Connect With Me  
+
+- 💼 LinkedIn: https://www.linkedin.com/in/imammularif/  
+- 📧 Email: imammularif@gmail.com  
 
 ---
 
