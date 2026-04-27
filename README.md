@@ -29,7 +29,7 @@ Experienced in data querying, data cleaning, and building dashboards using moder
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-orange?style=for-the-badge&logo=scikitlearn)
 ![MLflow](https://img.shields.io/badge/MLflow-Tracking-blue?style=for-the-badge&logo=mlflow)
 
-#### 📈 Advanced Analytics / Modeling
+### 📈 Advanced Analytics / Modeling
 ![Predictive Modeling](https://img.shields.io/badge/Predictive-Modeling-red?style=for-the-badge)
 ![Model Monitoring](https://img.shields.io/badge/Model-Monitoring-orange?style=for-the-badge)
 
