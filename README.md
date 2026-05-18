@@ -68,11 +68,13 @@ I specialize in transforming raw data into actionable insights, building predict
 
 ## ⭐ Featured Projects
 
-Berikut adalah proyek pilihan yang mencakup Rekayasa Data (*Data Engineering*), Visi Komputer & Pembelajaran Mendalam (*Computer Vision & Deep Learning*), Kecerdasan Bisnis (*Business Intelligence*), dan Pengembangan Aplikasi Web (*Web Development*):
+Berikut adalah proyek pilihan komprehensif yang mencakup Rekayasa Data (*Data Engineering*), Visi Komputer (*Computer Vision*), Kecerdasan Bisnis (*Business Intelligence*), dan Pengembangan Aplikasi Web (*Web Development*):
+
 
 
 | Proyek Portofolio | Deskripsi Teknis | Tech Stack |
 | :--- | :--- | :--- |
+| 🌐 **[Personal Web Portfolio](https://github.com/imammularif/My-Portofolio)** | Platform branding digital pribadi yang dibangun dari nol tanpa template, berfokus pada responsivitas antarmuka dan visualisasi lini masa karir. | `HTML5`, `CSS3`, `Vanilla JS`, `GitHub Pages` |
 | 🎯 **[Smart Attendance System](https://github.com)** | Sistem absensi berbasis pengenalan wajah waktu-nyata (*real-time*) mendayagunakan algoritma LBPH untuk pencatatan log kehadiran otomatis. | `Python`, `OpenCV`, `Tkinter`, `Pandas` |
 | ⚙️ **[Data Preprocessing Pipeline](https://github.com)** | Arsitektur *pipeline* ETL modular untuk otomasi proses data cleansing, standardisasi tipe data, dan loading hasil ke SQLite & Cloud Storage. | `Python`, `Pandas`, `GCP API`, `SQLite` |
 | 📸 **[Natural Image Classification](https://github.com)** | Pemodelan jaringan saraf konvolusional (CNN) kustom untuk klasifikasi citra alami ke dalam 8 kelas objek serta ekspor model siap deploy (TFLite/TFJS). | `Python`, `TensorFlow`, `Keras`, `Deep Learning` |
