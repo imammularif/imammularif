@@ -75,11 +75,11 @@ Berikut adalah proyek pilihan komprehensif yang mencakup Rekayasa Data (*Data En
 | Proyek Portofolio | Deskripsi Teknis | Tech Stack |
 | :--- | :--- | :--- |
 | 🌐 **[Personal Web Portfolio](https://github.com/imammularif/My-Portofolio)** | Platform branding digital pribadi yang dibangun dari nol tanpa template, berfokus pada responsivitas antarmuka dan visualisasi lini masa karir. | `HTML5`, `CSS3`, `Vanilla JS`, `GitHub Pages` |
-| 🎯 **[Smart Attendance System](https://github.com)** | Sistem absensi berbasis pengenalan wajah waktu-nyata (*real-time*) mendayagunakan algoritma LBPH untuk pencatatan log kehadiran otomatis. | `Python`, `OpenCV`, `Tkinter`, `Pandas` |
-| ⚙️ **[Data Preprocessing Pipeline](https://github.com)** | Arsitektur *pipeline* ETL modular untuk otomasi proses data cleansing, standardisasi tipe data, dan loading hasil ke SQLite & Cloud Storage. | `Python`, `Pandas`, `GCP API`, `SQLite` |
-| 📸 **[Natural Image Classification](https://github.com)** | Pemodelan jaringan saraf konvolusional (CNN) kustom untuk klasifikasi citra alami ke dalam 8 kelas objek serta ekspor model siap deploy (TFLite/TFJS). | `Python`, `TensorFlow`, `Keras`, `Deep Learning` |
-| 📊 **[YouTube Analytics Dashboard](https://github.com)** | Dasbor intelijen bisnis interaktif untuk menganalisis metrik retensi dan pola penayangan 1000 video YouTube terpopuler di dunia. | `Looker Studio`, `Data Visualization`, `CSV` |
-| 🚀 **[Task Management App](https://github.com)** | Aplikasi manajemen tugas interaktif yang mengimplementasikan siklus hidup perangkat lunak (SDLC) lengkap dan manipulasi DOM dinamis. | `HTML5`, `JavaScript`, `Tailwind CSS` |
+| 🎯 **[Smart Attendance System](https://github.com/imammularif/SMART-ABSENSI-WITH-FACE-RECOGNITION-LBPH-USING-PYTHON)** | Sistem absensi berbasis pengenalan wajah waktu-nyata (*real-time*) mendayagunakan algoritma LBPH untuk pencatatan log kehadiran otomatis. | `Python`, `OpenCV`, `Tkinter`, `Pandas` |
+| ⚙️ **[Data Preprocessing Pipeline](https://github.com/imammularif/Data-Preprocessing-Pipeline)** | Arsitektur *pipeline* ETL modular untuk otomasi proses data cleansing, standardisasi tipe data, dan loading hasil ke SQLite & Cloud Storage. | `Python`, `Pandas`, `GCP API`, `SQLite` |
+| 📸 **[Natural Image Classification](https://github.com/imammularif/natural-image-classification)** | Pemodelan jaringan saraf konvolusional (CNN) kustom untuk klasifikasi citra alami ke dalam 8 kelas objek serta ekspor model siap deploy (TFLite/TFJS). | `Python`, `TensorFlow`, `Keras`, `Deep Learning` |
+| 📊 **[YouTube Analytics Dashboard](https://github.com/imammularif/natural-image-classification)** | Dasbor intelijen bisnis interaktif untuk menganalisis metrik retensi dan pola penayangan 1000 video YouTube terpopuler di dunia. | `Looker Studio`, `Data Visualization`, `CSV` |
+| 🚀 **[Task Management App](https://github.com/imammularif/task-management-app)** | Aplikasi manajemen tugas interaktif yang mengimplementasikan siklus hidup perangkat lunak (SDLC) lengkap dan manipulasi DOM dinamis. | `HTML5`, `JavaScript`, `Tailwind CSS` |
 
 
 ---
