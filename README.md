@@ -1,54 +1,9 @@
-## 👋 Hi, I'm Imammul Arif
+# 👋 Hi, I'm Imammul Arif
 
-🚀 **Data Analyst | Data Science & Machine Learning Enthusiast**  
+🚀 **Data Engineer | Data Analyst | Machine Learning Enthusiast**  
 
-I specialize in transforming raw data into actionable insights and building data-driven solutions that solve real-world problems.  
-With a strong foundation in SQL and Python, I work across the full data lifecycle — from data extraction and validation to modeling and monitoring.
+I specialize in transforming raw data into actionable insights and engineering scalable data pipelines. With a strong foundation in Python and SQL, I operate across the entire data lifecycle—from extraction, validation, and cloud warehousing to predictive modeling and infrastructure monitoring.
 
----
-
-## 💡 What I Do  
-
-- 📊 Analyze and explore data to uncover meaningful insights  
-- 🛠️ Build and manage ETL pipelines for reliable data workflows  
-- 🤖 Develop predictive models and track experiments  
-- 📈 Create dashboards and visualizations for decision-making  
-- ⚙️ Monitor and maintain data systems and machine learning models  
-
----
-
-## 🧠 Core Expertise  
-
-**Data & Analytics:**  
-SQL (PostgreSQL, MySQL, Oracle), BigQuery  
-
-**Data Science:**  
-Python (Pandas, NumPy, Scikit-learn), MLflow  
-
-**Data Engineering:**  
-ETL Pipelines, Data Cleaning, Data Validation  
-
-**Modeling & Monitoring:**  
-Predictive Modeling, Model Monitoring & Maintenance  
-
-**Tools & Platforms:**  
-Google Cloud Platform (GCP), Microsoft Fabric, Prometheus, Grafana  
-
----
-
-## 🌍 Philosophy  
-
-> “Good data tells a story. Great data drives decisions.”  
-
-I believe that data is not just about numbers — it’s about clarity, impact, and building intelligent systems that scale.
-
----
-
-## 📫 Connect With Me  
-
-- 💼 LinkedIn: [Imammul Arif](https://www.linkedin.com/in/imammularif/)  
-- 🌐 Portfolio: [Personal Web Portfolio](https://imammularif.github.io/My-Portofolio/)  
-- 📧 Email: imammularif@gmail.com  
 ---
 
 ## 💻 Tech Stack
@@ -110,18 +65,38 @@ I believe that data is not just about numbers — it’s about clarity, impact, 
 
 ---
 
-## 📊 GitHub Stats
+## ⭐ Featured Projects
 
-![GitHub Streak](https://streak-stats.demolab.com?user=imammularif&theme=tokyonight)
+Berikut adalah proyek utama yang berfokus pada kecakapan rekayasa data (*Data Engineering*) dan visi komputer (*Computer Vision*):
+
+
+| Proyek Portofolio | Deskripsi Teknis | Tech Stack |
+| :--- | :--- | :--- |
+| 🎯 **[Smart Attendance System](https://github.com)** | Sistem absensi berbasis pengenalan wajah waktu-nyata (*real-time*) mendayagunakan algoritma LBPH untuk mitigasi kecurangan pencatatan log kehadiran otomatis. | `Python`, `OpenCV`, `Tkinter`, `Pandas` |
+| ⚙️ **[Data Preprocessing Pipeline](https://github.com)** | Arsitektur *pipeline* ETL modular untuk otomasi proses data cleansing, standardisasi tipe data, dan loading hasil ke SQLite & Cloud Storage. | `Python`, `Pandas`, `GCP API`, `SQLite` |
 
 ---
 
-## 🎯 Interests
+## 📊 GitHub Analytics
 
-- 🧠 Data & Analytics
-- 📊 Data Visualization & BI
-- 🤖 Data Science & Machine Learning
-- 🔄 Data Engineering & Pipelines 
-- ⚙️ Tools, Cloud & Environment
-- 🌐 Full-Stack (Basic)
-- 💻 Command Line & CLI 
+<div align="center">
+  <!-- <img src="https://vercel.app" alt="GitHub Stats" height="180px"/> -->
+  <img src="https://streak-stats.demolab.com?user=imammularif&theme=tokyonight" alt="GitHub Streak" height="180px"/>
+</div>
+
+
+---
+
+## 📬 Connect With Me
+
+<div align="left">
+
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/imammularif/)
+[![Portfolio](https://shields.io)](https://imammularif.github.io/My-Portofolio/)
+[![Email](https://shields.io)](mailto:imammularif@gmail.com)
+
+</div>
+
+---
+
+> 💡 *“Good data tells a story. Great data drives decisions.”*
