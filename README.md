@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Imammul Arif
 
-🚀 **Data Engineer | Data Analyst | Machine Learning Enthusiast**  
+🚀 **Data Analyst | AI/ML & Data Science Explorer | Python & SQL**  
 
-I specialize in transforming raw data into actionable insights and engineering scalable data pipelines. With a strong foundation in Python and SQL, I operate across the entire data lifecycle—from extraction, validation, and cloud warehousing to predictive modeling and infrastructure monitoring.
+I specialize in transforming raw data into actionable insights, building predictive machine learning models, and engineering reliable data pipelines. Operating across the entire data lifecycle, I leverage Python and SQL to extract metrics, validate system integrity, and deploy interactive visualization dashboards that drive data-backed decisions.
+
 
 ---
 
