@@ -67,14 +67,16 @@ I specialize in transforming raw data into actionable insights and engineering s
 
 ## ⭐ Featured Projects
 
-Berikut adalah proyek utama yang mencakup rekayasa data (*Data Engineering*), visi komputer (*Computer Vision*), dan pengembangan aplikasi web (*Web Development*):
+Berikut adalah proyek pilihan yang mencakup Rekayasa Data (*Data Engineering*), Visi Komputer (*Computer Vision*), Kecerdasan Bisnis (*Business Intelligence*), dan Pengembangan Web (*Web Development*):
 
 
 | Proyek Portofolio | Deskripsi Teknis | Tech Stack |
 | :--- | :--- | :--- |
-| 🎯 **[Smart Attendance System](https://github.com)** | Sistem absensi berbasis pengenalan wajah waktu-nyata (*real-time*) mendayagunakan algoritma LBPH untuk mitigasi kecurangan pencatatan log kehadiran otomatis. | `Python`, `OpenCV`, `Tkinter`, `Pandas` |
+| 🎯 **[Smart Attendance System](https://github.com)** | Sistem absensi berbasis pengenalan wajah waktu-nyata (*real-time*) mendayagunakan algoritma LBPH untuk pencatatan log kehadiran otomatis. | `Python`, `OpenCV`, `Tkinter`, `Pandas` |
 | ⚙️ **[Data Preprocessing Pipeline](https://github.com)** | Arsitektur *pipeline* ETL modular untuk otomasi proses data cleansing, standardisasi tipe data, dan loading hasil ke SQLite & Cloud Storage. | `Python`, `Pandas`, `GCP API`, `SQLite` |
-| 🚀 **[Task Management App](https://github.com/imammularif/task-management-app)** | Aplikasi manajemen tugas interaktif yang mengimplementasikan siklus hidup perangkat lunak (SDLC) lengkap dan manipulasi DOM dinamis. | `HTML5`, `JavaScript`, `Tailwind CSS` |
+| 📊 **[YouTube Analytics Dashboard](https://github.com/imammularif/Most-popular-1000-Youtube-videos)** | Dasbor intelijen bisnis interaktif untuk menganalisis metrik retensi dan pola penayangan 1000 video YouTube terpopuler di dunia. | `Looker Studio`, `Data Visualization`, `CSV` |
+| 🚀 **[Task Management App](https://github.com)** | Aplikasi manajemen tugas interaktif yang mengimplementasikan siklus hidup perangkat lunak (SDLC) lengkap dan manipulasi DOM dinamis. | `HTML5`, `JavaScript`, `Tailwind CSS` |
+
 
 ---
 
