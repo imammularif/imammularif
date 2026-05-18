@@ -79,7 +79,7 @@ Berikut adalah proyek utama yang berfokus pada kecakapan rekayasa data (*Data En
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="left">
   <!-- <img src="https://vercel.app" alt="GitHub Stats" height="180px"/> -->
   <img src="https://streak-stats.demolab.com?user=imammularif&theme=tokyonight" alt="GitHub Streak" height="180px"/>
 </div>
@@ -89,13 +89,9 @@ Berikut adalah proyek utama yang berfokus pada kecakapan rekayasa data (*Data En
 
 ## 📬 Connect With Me
 
-<div align="left">
-
-[![LinkedIn : ](https://www.linkedin.com/in/imammularif/)
-[![Portfolio :](https://imammularif.github.io/My-Portofolio/)
-[![Email :](mailto:imammularif@gmail.com)
-
-</div>
+* **LinkedIn:** [linkedin.com/in/imammularif](https://www.linkedin.com/in/imammularif/)
+* **GitHub Portfolio:** [github.com/imammularif](https://github.com/imammularif)
+* **Email:** [imammularif@gmail.com](mailto:imammularif@gmail.com)
 
 ---
 
