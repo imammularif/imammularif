@@ -91,9 +91,9 @@ Berikut adalah proyek utama yang berfokus pada kecakapan rekayasa data (*Data En
 
 <div align="left">
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/imammularif/)
-[![Portfolio](https://shields.io)](https://imammularif.github.io/My-Portofolio/)
-[![Email](https://shields.io)](mailto:imammularif@gmail.com)
+[![LinkedIn : ](https://www.linkedin.com/in/imammularif/)
+[![Portfolio :](https://imammularif.github.io/My-Portofolio/)
+[![Email :](mailto:imammularif@gmail.com)
 
 </div>
 
