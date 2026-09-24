@@ -56,7 +56,7 @@ Exploring **data, programming, databases, and technology** through personal proj
 | ⚙️ **[Data Preprocessing Pipeline](https://github.com/imammularif/Data-Preprocessing-Pipeline)**                       | ETL pipeline for data cleaning, transformation, validation, and loading.                  | `Python` `Pandas` `SQLite` `GCP`           |
 | 🎯 **[Smart Attendance System](https://github.com/imammularif/SMART-ABSENSI-WITH-FACE-RECOGNITION-LBPH-USING-PYTHON)** | Real-time attendance system using face recognition.                                       | `Python` `OpenCV` `Tkinter` `Pandas`       |
 | 📸 **[Natural Image Classification](https://github.com/imammularif/natural-image-classification)**                     | Image classification model using convolutional neural networks.                           | `Python` `TensorFlow` `Keras`              |
-| 🌐 **[Personal Portfolio 1.0](https://github.com/imammularif/My-Portofolio)**                                              | Personal portfolio website showcasing projects and professional experience.               | `HTML` `CSS` `JavaScript`                  |
+| 🌐 **[Personal Portfolio 2.0](https://github.com/imammularif/portfolio)** | A modern personal portfolio showcasing my projects, skills, and professional journey. | `HTML` `CSS` `JavaScript` |
 
 ---
 
