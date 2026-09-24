@@ -1,14 +1,10 @@
 # 👋 Hi, I'm Imammul Arif
 
-**Digital Banking Operations & Data Analytics | SQL & Python**
+**Data & Analytics | SQL & Python**
 
-IT professional with experience in **Digital Banking Operations, Technical Support, IT Operations, and Data Analytics**.
+Interested in **Data Analytics, Data Engineering, Cloud, and AI/ML**.
 
-I work with **SQL, Python, Excel, and data visualization** to investigate incidents, validate and analyze data, monitor digital banking systems, troubleshoot operational issues, and improve business processes.
-
-My experience includes supporting **digital payments, QRIS, interbank transfers, e-wallets, merchant settlement, customer validation, and digital banking applications**.
-
-Currently expanding my expertise in **Data Engineering, Cloud Computing, and AI/ML**, with a focus on building reliable, data-driven solutions.
+Exploring **data, programming, databases, and technology** through personal projects and continuous learning.
 
 ---
 
