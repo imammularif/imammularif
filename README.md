@@ -47,6 +47,8 @@ Passionate about transforming data into meaningful insights and building practic
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge\&logo=visualstudiocode)
 ![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge\&logo=jupyter)
+![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
