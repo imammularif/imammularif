@@ -47,6 +47,17 @@ Passionate about transforming data into meaningful insights and building practic
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
+### 🖥️ IT Operations & Service Management
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![ITSM](https://img.shields.io/badge/ITSM-0A66C2?style=for-the-badge)
+![Incident Management](https://img.shields.io/badge/Incident%20Management-DC3545?style=for-the-badge)
+![Problem Management](https://img.shields.io/badge/Problem%20Management-6F42C1?style=for-the-badge)
+![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-198754?style=for-the-badge)
+![Service Level Agreement](https://img.shields.io/badge/SLA-FF8C00?style=for-the-badge)
+![Application Support](https://img.shields.io/badge/Application%20Support-4682B4?style=for-the-badge)
+
 ### 📈 Data Visualization & Monitoring
 
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
