@@ -21,6 +21,15 @@ Passionate about transforming data into meaningful insights and building practic
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### 🎨 Web Design & UI/UX
+
+![UI Design](https://img.shields.io/badge/UI%20Design-FF61F6?style=for-the-badge)
+![UX Design](https://img.shields.io/badge/UX%20Design-8A2BE2?style=for-the-badge)
+![Web Design](https://img.shields.io/badge/Web%20Design-0A66C2?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-2E8B57?style=for-the-badge)
+![Prototyping](https://img.shields.io/badge/Prototyping-F24E1E?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 ### 📊 Data Analytics & Processing
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
