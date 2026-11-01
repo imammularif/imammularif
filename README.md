@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Imammul Arif
 
-**Data & Analytics | SQL & Python**
+**Data Analyst | SQL & Python | AI/ML & Data Science Enthusiast**
 
-Interested in **Data Analytics, Data Engineering, Cloud, and AI/ML**.
+Interested in **Data Analytics, Data Engineering, Business Intelligence, and Artificial Intelligence**.
 
-Exploring **data, programming, databases, and technology** through personal projects and continuous learning.
+Exploring **data analysis, database management, programming, and machine learning** through hands-on projects and continuous learning.
+
+Passionate about transforming data into meaningful insights and building practical solutions through technology.
 
 ---
 
