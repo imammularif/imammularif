@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Imammul Arif
 
-**SQL & Python | Data Engineering | AI/ML & Data Science Enthusiast**
+**Application Support & Data Operations | SQL & Python | Data Analytics**
 
-Interested in **Database Management, Data Engineering, Business Intelligence, and Artificial Intelligence**.
+Bachelor of Informatics with a background in technical support, application operations, database management, and data processing.
 
-Passionate about exploring **data, programming, database systems, and emerging technologies** to develop practical solutions and solve real-world problems.
+Experienced in handling application incidents, analyzing operational data, working with SQL databases, and supporting business-critical systems.
 
-Continuously expanding technical knowledge through hands-on projects, experimentation, and independent learning.
+Interested in Data Engineering, Business Intelligence, and AI/ML, with a focus on building practical solutions through hands-on projects and continuous learning.
 
-Always curious, always learning, and building something new.
+Always learning, improving, and building with data and technology.
 
 
 ## 🛠️ Skills
