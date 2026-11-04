@@ -75,7 +75,6 @@ Passionate about technology, continuous improvement, and developing reliable sol
 ### 📈 Data Visualization & Reporting
 
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### ☁️ Cloud & Data Engineering
@@ -138,25 +137,30 @@ Passionate about technology, continuous improvement, and developing reliable sol
 
 ---
 
-## 🎓 Education & Academic Activities
+## 🎓 Education & Activities
 
-| Category | Institution / Project | Concentration / Description | Period |
-|---|---|---|---|
-| Bachelor of Informatics | Universitas Teknologi Yogyakarta | Intelligent Systems | 2019 – 2023 |
-| Undergraduate Thesis | Smart Absensi with Face Recognition using LBPH and Python | Face Recognition, LBPH, Python | 2023 |
-| Practical Work Project | Student Assessment Website | Web Development | 2022 |
-| Senior High School | SMA Negeri 1 Dompu | Physics (Primary), Pure Mathematics (Secondary) | 2017 – 2019 |
-| Candidate of Paskibraka | SMA Negeri 1 Dompu | Paskibraka Selection & Training | 2017 – 2018 |
-| Extracurricular Member | Palang Merah Remaja (PMR) | Youth Red Cross | 2017 – 2018 |
-| Extracurricular Member | Rohani Islam (Rohis) | Islamic Student Activities | 2018 – 2019 |
-| Extracurricular Member | Pramuka | Scouting | 2017 – 2018 |
+### Universitas Teknologi Yogyakarta
+**Bachelor of Informatics** | 2019 – 2023
 
-## 🌐 Community & Club Activities
+| Category | Project / Activity | Description | Period |
+| :--- | :--- | :--- | :--- |
+| Academic Concentration | Intelligent Systems | Area of academic concentration | 2019 – 2023 |
+| Undergraduate Thesis | Smart Attendance System Using LBPH Face Recognition with Python | Face Recognition, LBPH, Python | 2023 |
+| Practical Work | Student Assessment Website | Web Development | — |
+| Community Service | Grogol Tourism Village | Digital Marketing & Community Entrepreneurship | — |
+| Community & Club | Beatbox Club | Community participation | — |
+| Community & Club | We Save | Community participation | — |
 
-| Activity | Organization / Community | Role | Period |
-|---|---|---|---|
-| Beatbox | Beatbox Club | Member | — |
-| Community Activity | We Save | Member / Volunteer | — |
+### SMA Negeri 1 Dompu
+**Senior High School** | 2017 – 2019
+
+| Category | Organization / Activity | Description | Period |
+| :--- | :--- | :--- | :--- |
+| Academic Concentration | Physics (Primary), Pure Mathematics (Secondary) | Academic concentration | 2017 – 2019 |
+| Leadership & Training | Candidate of Paskibraka | Selection and training | 2017 – 2018 |
+| Extracurricular | Palang Merah Remaja (PMR) | Youth Red Cross | — |
+| Extracurricular | Rohani Islam (Rohis) | Islamic Student Activities | — |
+| Extracurricular | Pramuka | Scouting | — |
 
 ---
 
