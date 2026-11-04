@@ -18,8 +18,8 @@ Passionate about technology, continuous improvement, and developing reliable sol
 
 | Company | Position | Period |
 | :--- | :--- | :--- |
-| **PT Bank Raya Indonesia Tbk** | Digital Problem Management – Digital Operations | Jun 2026 – Sep 2026 |
-| **PLN Icon Plus** | Technical Support | Nov 2023 – Dec 2024 |
+| **PT Bank Raya Indonesia Tbk** | Digital Problem Management – Digital Operations (Middle / L2 Support) | Jun 2026 – Sep 2026 |
+| **PLN Icon Plus** | Technical Support (Junior / L1 Support) | Nov 2023 – Dec 2024 |
 
 **Key Experience:**
 - Application incident management and troubleshooting.
