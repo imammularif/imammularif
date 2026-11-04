@@ -100,12 +100,13 @@ Always learning, improving, and building with data and technology.
 
 ## ⭐ Featured Projects
 
-| Project                                                                                                                | Description                                                                               | Tech Stack                                 |
-| :--------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- | :----------------------------------------- |
-| 📊 **[YouTube Analytics Dashboard](https://github.com/imammularif/Most-popular-1000-Youtube-videos)**                  | Interactive dashboard for analyzing trends and metrics from 1,000 popular YouTube videos. | `Looker Studio` `Data Visualization` `CSV` |
-| ⚙️ **[Data Preprocessing Pipeline](https://github.com/imammularif/Data-Preprocessing-Pipeline)**                       | ETL pipeline for data cleaning, transformation, validation, and loading.                  | `Python` `Pandas` `SQLite` `GCP`           |
-| 🎯 **[Smart Attendance System](https://github.com/imammularif/SMART-ABSENSI-WITH-FACE-RECOGNITION-LBPH-USING-PYTHON)** | Real-time attendance system using face recognition.                                       | `Python` `OpenCV` `Tkinter` `Pandas`       |
-| 📸 **[Natural Image Classification](https://github.com/imammularif/natural-image-classification)**                     | Image classification model using convolutional neural networks.                           | `Python` `TensorFlow` `Keras`              |
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🎮 **[TopUpKu](https://github.com/imammularif/topupku)** | Game top-up website prototype featuring product catalog, order management, order history, and email-based OTP order recovery. | `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Resend` `Tailwind CSS` |
+| 📊 **[YouTube Analytics Dashboard](https://github.com/imammularif/Most-popular-1000-Youtube-videos)** | Interactive dashboard for analyzing trends and metrics from 1,000 popular YouTube videos. | `Looker Studio` `Data Visualization` `CSV` |
+| ⚙️ **[Data Preprocessing Pipeline](https://github.com/imammularif/Data-Preprocessing-Pipeline)** | ETL pipeline for data cleaning, transformation, validation, and loading. | `Python` `Pandas` `SQLite` `GCP` |
+| 🎯 **[Smart Attendance System](https://github.com/imammularif/SMART-ABSENSI-WITH-FACE-RECOGNITION-LBPH-USING-PYTHON)** | Real-time attendance system using face recognition. | `Python` `OpenCV` `Tkinter` `Pandas` |
+| 📸 **[Natural Image Classification](https://github.com/imammularif/natural-image-classification)** | Image classification model using convolutional neural networks. | `Python` `TensorFlow` `Keras` |
 | 🌐 **[Personal Portfolio 2.0](https://github.com/imammularif/portfolio-V2.0)** | A modern personal portfolio showcasing my projects, skills, and professional journey. | `HTML` `CSS` `JavaScript` |
 
 ---
