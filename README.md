@@ -150,7 +150,7 @@ Passionate about technology, continuous improvement, and developing reliable sol
 | Community Service | Grogol Tourism Village | Digital Marketing & Community Entrepreneurship | 2023 |
 
 ### SMA Negeri 1 Dompu
-**Senior High School** | 2017 – 2019
+**Senior High School (Science 1)** | 2017 – 2019
 
 | Category | Organization / Activity | Description | Period |
 | :--- | :--- | :--- | :--- |
