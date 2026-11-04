@@ -158,10 +158,10 @@ Passionate about technology, continuous improvement, and developing reliable sol
 | :--- | :--- | :--- | :--- |
 | Academic Concentration | Physics (Primary), Pure Mathematics (Secondary) | Academic concentration | 2017 – 2019 |
 | Leadership & Training | Candidate of Paskibraka | Selection and training | 2017 – 2018 |
-| Extracurricular | Palang Merah Remaja (PMR) | Youth Red Cross | - |
+| Extracurricular | Palang Merah Remaja (PMR) | Youth Red Cross | 2017-2018 |
 | Extracurricular | Rohani Islam (Rohis) | Islamic Student Activities | 2018-2019 |
 | Extracurricular | Pramuka | Scouting | 2017 - 2018 |
-| Competition & Achievement | Choir Competition (Padus) | Represented SMA Negeri 1 Dompu in a choir competition | — |
+| Competition & Achievement | Choir Competition (Padus) | Represented SMA Negeri 1 Dompu in a choir competition | - |
 
 ---
 
