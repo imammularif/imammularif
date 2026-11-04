@@ -16,10 +16,10 @@ Passionate about technology, continuous improvement, and developing reliable sol
 
 ## 💼 Professional Experience
 
-| Company | Position | Period |
-| :--- | :--- | :--- |
-| **PT Bank Raya Indonesia Tbk** | Digital Problem Management – Digital Operations (Middle / L2 Support) | Jun 2026 – Sep 2026 |
-| **PLN Icon Plus** | Technical Support (Junior / L1 Support) | Nov 2023 – Dec 2024 |
+| Company | Position | Work Location | Period |
+| :--- | :--- | :--- | :--- |
+| **PT Bank Raya Indonesia Tbk** | Digital Problem Management – Digital Operations (Middle / L2 Support) | Menara BRILiaN, South Jakarta | Jun 2026 – Sep 2026 |
+| **PLN Icon Plus** | Technical Support (Junior / L1 Support) | Menara Jamsostek Selatan, South Jakarta | Nov 2023 – Dec 2024 |
 
 **Key Experience:**
 - Application incident management and troubleshooting.
