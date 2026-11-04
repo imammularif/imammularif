@@ -144,6 +144,9 @@ Passionate about technology, continuous improvement, and developing reliable sol
 Universitas Teknologi Yogyakarta  
 Concentration: Intelligent Systems
 
+**Senior High School – Natural Sciences 1**  
+SMA Negeri 1 Dompu
+
 ---
 
 ## 📬 Connect With Me
