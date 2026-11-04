@@ -148,6 +148,7 @@ Passionate about technology, continuous improvement, and developing reliable sol
 | Undergraduate Thesis | Smart Attendance System Using LBPH Face Recognition with Python | Face Recognition, LBPH, Python | 2023 |
 | Practical Work | Student Assessment Website | Web Development | 2022-2023 |
 | Community Service | Grogol Tourism Village | Digital Marketing & Community Entrepreneurship | 2023 |
+| Organization & Community | Ikatan Mahasiswa Islam (IMM) | Organizational Activities Participant | 2019 |
 
 ### SMA Negeri 1 Dompu
 **Senior High School (Science 1)** | 2017 – 2019
