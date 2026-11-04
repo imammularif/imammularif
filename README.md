@@ -140,12 +140,10 @@ Passionate about technology, continuous improvement, and developing reliable sol
 
 ## 🎓 Education
 
-**Bachelor of Informatics**  
-Universitas Teknologi Yogyakarta  
-Concentration: Intelligent Systems
-
-**Senior High School – Natural Sciences 1**  
-SMA Negeri 1 Dompu
+| Degree | Institution | Concentration | Period |
+|---|---|---|---|
+| Bachelor of Informatics | Universitas Teknologi Yogyakarta | Intelligent Systems | 2019 – 2023 |
+| Senior High School | SMA Negeri 1 Dompu | Natural Sciences 1 | 2017 – 2019 |
 
 ---
 
