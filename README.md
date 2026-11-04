@@ -143,7 +143,13 @@ Passionate about technology, continuous improvement, and developing reliable sol
 | Degree | Institution | Concentration | Period |
 |---|---|---|---|
 | Bachelor of Informatics | Universitas Teknologi Yogyakarta | Intelligent Systems | 2019 – 2023 |
-| Senior High School | SMA Negeri 1 Dompu | Natural Sciences 1 | 2017 – 2019 |
+| Senior High School | SMA Negeri 1 Dompu | Physics (Primary), Pure Mathematics (Secondary) | 2017 – 2019 |
+
+**Undergraduate Thesis:**  
+SMART-ABSENSI-WITH-FACE-RECOGNITION-LBPH-USING-PYTHON
+
+**Practical Work Project:**  
+Student Assessment Website
 
 ---
 
