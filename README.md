@@ -160,7 +160,9 @@ Passionate about technology, continuous improvement, and developing reliable sol
 | Leadership & Training | Candidate of Paskibraka | Selection and training | 2017 – 2018 |
 | Extracurricular | Palang Merah Remaja (PMR) | Youth Red Cross | 2017-2018 |
 | Extracurricular | Rohani Islam (Rohis) | Islamic Student Activities | 2018-2019 |
-| Extracurricular | Pramuka | Scouting | 2017 - 2018 |
+| Extracurricular | Pramuka | Scouting | 2017-2018 |
+| Community & Club | Beatbox Club | Community participation | — |
+| Community & Club | We Save | Community participation | - |
 | Competition & Achievement | Choir Competition (Padus) | Represented SMA Negeri 1 Dompu in a choir competition | - |
 
 ---
