@@ -144,7 +144,7 @@ Passionate about technology, continuous improvement, and developing reliable sol
 
 | Category | Project / Activity | Description | Period |
 | :--- | :--- | :--- | :--- |
-| Academic Concentration | Intelligent Systems | Area of academic concentration | 2019-2023 |
+| Academic Concentration | Intelligent Systems | Area of academic concentration | 2023 |
 | Undergraduate Thesis | Smart Attendance System Using LBPH Face Recognition with Python | Face Recognition, LBPH, Python | 2023 |
 | Practical Work | Student Assessment Website | Web Development | 2022-2023 |
 | Community Service | Grogol Tourism Village | Digital Marketing & Community Entrepreneurship | 2023 |
