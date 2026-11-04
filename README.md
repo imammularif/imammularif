@@ -138,18 +138,25 @@ Passionate about technology, continuous improvement, and developing reliable sol
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Academic Activities
 
-| Degree | Institution | Concentration | Period |
+| Category | Institution / Project | Concentration / Description | Period |
 |---|---|---|---|
 | Bachelor of Informatics | Universitas Teknologi Yogyakarta | Intelligent Systems | 2019 – 2023 |
+| Undergraduate Thesis | Smart Absensi with Face Recognition using LBPH and Python | Face Recognition, LBPH, Python | 2023 |
+| Practical Work Project | Student Assessment Website | Web Development | 2022 |
 | Senior High School | SMA Negeri 1 Dompu | Physics (Primary), Pure Mathematics (Secondary) | 2017 – 2019 |
+| Candidate of Paskibraka | SMA Negeri 1 Dompu | Paskibraka Selection & Training | 2017 – 2018 |
+| Extracurricular Member | Palang Merah Remaja (PMR) | Youth Red Cross | 2017 – 2018 |
+| Extracurricular Member | Rohani Islam (Rohis) | Islamic Student Activities | 2018 – 2019 |
+| Extracurricular Member | Pramuka | Scouting | 2017 – 2018 |
 
-**Undergraduate Thesis:**  
-SMART-ABSENSI-WITH-FACE-RECOGNITION-LBPH-USING-PYTHON
+## 🌐 Community & Club Activities
 
-**Practical Work Project:**  
-Student Assessment Website
+| Activity | Organization / Community | Role | Period |
+|---|---|---|---|
+| Beatbox | Beatbox Club | Member | — |
+| Community Activity | We Save | Member / Volunteer | — |
 
 ---
 
