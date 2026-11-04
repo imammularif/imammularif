@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Imammul Arif
 
-**Application Support & Data Operations | SQL & Python | Data Analytics**
+**Application Support & Data Operations Specialist | SQL & Python | Data Analytics**
 
-Bachelor of Informatics with a background in technical support, application operations, database management, and data processing.
+Bachelor of Informatics with professional experience in technical support, application operations, database management, and data processing across fintech and telecommunications environments.
 
-Experienced in handling application incidents, analyzing operational data, working with SQL databases, and supporting business-critical systems.
+Experienced in managing application incidents, troubleshooting operational issues, analyzing data, writing SQL queries, and supporting business-critical systems. Skilled in working with relational databases, operational reporting, and cross-functional collaboration to maintain system reliability and operational efficiency.
 
-Interested in Data Engineering, Business Intelligence, and AI/ML, with a focus on building practical solutions through hands-on projects and continuous learning.
+**Core Interests:** Data Engineering, Business Intelligence, and AI/ML, with a focus on developing practical, data-driven solutions through hands-on projects and continuous learning.
 
-Always learning, improving, and building with data and technology.
+Passionate about solving technical problems, improving operational processes, and building reliable solutions through data and technology.
 
 
 ## 🛠️ Skills
