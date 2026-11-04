@@ -155,8 +155,8 @@ Passionate about technology, continuous improvement, and developing reliable sol
 
 | Category | Organization / Activity | Description | Period |
 | :--- | :--- | :--- | :--- |
-| Academic Concentration | Physics (Primary), Pure Mathematics (Secondary) | Academic concentration | 2017 – 2019 |
-| Leadership & Training | Candidate of Paskibraka | Selection and training | 2017 – 2018 |
+| Academic Concentration | Physics (Primary), Pure Mathematics (Secondary) | Academic concentration | 2017–2019 |
+| Leadership & Training | Candidate of Paskibraka | Selection and training | 2017–2018 |
 | Extracurricular | Palang Merah Remaja (PMR) | Youth Red Cross | 2017-2018 |
 | Extracurricular | Rohani Islam (Rohis) | Islamic Student Activities | 2018-2019 |
 | Extracurricular | Pramuka | Scouting | 2017-2018 |
