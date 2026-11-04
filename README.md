@@ -4,7 +4,7 @@
 
 Bachelor of Informatics with professional experience in application support, IT operations, incident management, database management, and data processing across fintech and telecommunications environments.
 
-Previously worked with **PLN Icon Plus** and **Bank Raya**, supporting business-critical applications, troubleshooting operational issues, analyzing incidents, executing SQL queries, and collaborating with cross-functional teams to maintain system reliability and operational efficiency.
+Previously worked with **PLN Icon Plus** and **PT Bank Raya Indonesia Tbk**, supporting business-critical applications, troubleshooting operational issues, analyzing incidents, executing SQL queries, and collaborating with cross-functional teams to maintain system reliability and operational efficiency.
 
 Experienced in working with relational databases, operational reporting, data validation, and application monitoring. Interested in leveraging SQL, Python, and data analytics to solve technical problems and improve business processes.
 
