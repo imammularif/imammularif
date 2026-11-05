@@ -157,6 +157,7 @@ Passionate about technology, continuous improvement, and developing reliable sol
 | :--- | :--- | :--- | :--- |
 | Academic Concentration | Physics | Academic Concentration | 2017-2019 |
 | Academic Specialization | Pure Mathematics | Academic Specialization | 2017-2019 |
+| Academic Training | YPAD Post-National Examination Course | Attended Mathematics, English, and Physics classes | 2019 |
 | Leadership & Training | Candidate of Paskibraka | Selection and training | 2017-2018 |
 | Extracurricular | Palang Merah Remaja (PMR) | Youth Red Cross | 2017-2018 |
 | Extracurricular | Rohani Islam (Rohis) | Islamic Student Activities | 2018-2019 |
@@ -175,6 +176,8 @@ Passionate about technology, continuous improvement, and developing reliable sol
 | Student Activities | Student Council Election | Participated in internal Student Council election activities | grade 8 |
 | Academic Competition | English Olympiad Selection | Participated in an external English Olympiad selection held at school | - |
 | Event Committee | Graduation / Farewell Ceremony Committee | Participated in organizing the graduating class farewell event | grade 9 |
+| Language Training | WARACI English Course | Completed Beginner 1, Beginner 2, and Beginner 3 levels | Grade 4–5 (Elementary School) |
+| Language Training | WARACI English Course | Attended Basic 1 level | Grade 7 (Junior High School) |
 
 ---
 
