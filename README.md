@@ -164,6 +164,7 @@ Passionate about technology, continuous improvement, and developing reliable sol
 | Community & Club | Beatbox Club | Community participation | - |
 | Community & Club | We Save | Community participation | - |
 | Competition & Achievement | Choir Competition (Padus) | Represented SMA Negeri 1 Dompu in a choir competition | - |
+| Leadership & Nomination | Vice Chairman of Student Council (Nominee) | Nominated for the position; declined the nomination | 2017 |
 
 ---
 
