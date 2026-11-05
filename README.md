@@ -176,8 +176,8 @@ Passionate about technology, continuous improvement, and developing reliable sol
 | Student Activities | Student Council Election | Participated in internal Student Council election activities | grade 8 |
 | Academic Competition | English Olympiad Selection | Participated in an external English Olympiad selection held at school | - |
 | Event Committee | Graduation / Farewell Ceremony Committee | Participated in organizing the graduating class farewell event | grade 9 |
+| Language Training | WARACI English Course | Attended Basic 1 level | Grade 7 |
 | Language Training | WARACI English Course | Completed Beginner 1, Beginner 2, and Beginner 3 levels | Grade 4–5 (Elementary School) |
-| Language Training | WARACI English Course | Attended Basic 1 level | Grade 7 (Junior High School) |
 
 ---
 
