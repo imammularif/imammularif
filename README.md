@@ -166,6 +166,16 @@ Passionate about technology, continuous improvement, and developing reliable sol
 | Competition & Achievement | Choir Competition (Padus) | Represented SMA Negeri 1 Dompu in a choir competition | - |
 | Leadership & Nomination | Vice Chairman of Student Council (Nominee) | Nominated for the position; declined the nomination | 2017 |
 
+### SMP Negeri 1 Dompu
+**Junior High School** | [Tahun masuk – Tahun lulus]
+
+| Category | Organization / Activity | Description | Period |
+| :--- | :--- | :--- | :--- |
+| Leadership | Class Leader | Served as Class Leader | Grade 7-8 |
+| Student Activities | Student Council Election | Participated in internal Student Council election activities | grade 2 |
+| Academic Competition | English Olympiad Selection | Participated in an external English Olympiad selection held at school | - |
+| Event Committee | Graduation / Farewell Ceremony Committee | Participated in organizing the graduating class farewell event | grade 3 |
+
 ---
 
 ## 📬 Connect With Me
