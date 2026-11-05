@@ -167,7 +167,7 @@ Passionate about technology, continuous improvement, and developing reliable sol
 | Leadership & Nomination | Vice Chairman of Student Council (Nominee) | Nominated for the position; declined the nomination | 2017 |
 
 ### SMP Negeri 1 Dompu
-**Junior High School** | [Tahun masuk – Tahun lulus]
+**Junior High School** | 2013-2016
 
 | Category | Organization / Activity | Description | Period |
 | :--- | :--- | :--- | :--- |
