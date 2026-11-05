@@ -150,6 +150,13 @@ Passionate about technology, continuous improvement, and developing reliable sol
 | Community Service | Grogol Tourism Village | Digital Marketing & Community Entrepreneurship | 2023 |
 | Campus Activity | Ikatan Mahasiswa Islam | New Student Islamic Orientation / Pesantren Kilat Participant | 2019 |
 
+### Additional Training & Development
+
+| Category | Institution / Program | Description | Period |
+| :--- | :--- | :--- | :--- |
+| Language Training | English Cafe | Completed English Language Course – Level 2 and Level 3 | Post-Graduation |
+| Computer Training | Web Design Course | Attended Additional Computer Training in Web Design | Post-Graduation |
+
 ### SMA Negeri 1 Dompu
 **Senior High School (Science 1)** | 2017 – 2019
 
