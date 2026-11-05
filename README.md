@@ -172,9 +172,9 @@ Passionate about technology, continuous improvement, and developing reliable sol
 | Category | Organization / Activity | Description | Period |
 | :--- | :--- | :--- | :--- |
 | Leadership | Class Leader | Served as Class Leader | Grade 7-8 |
-| Student Activities | Student Council Election | Participated in internal Student Council election activities | grade 2 |
+| Student Activities | Student Council Election | Participated in internal Student Council election activities | grade 8 |
 | Academic Competition | English Olympiad Selection | Participated in an external English Olympiad selection held at school | - |
-| Event Committee | Graduation / Farewell Ceremony Committee | Participated in organizing the graduating class farewell event | grade 3 |
+| Event Committee | Graduation / Farewell Ceremony Committee | Participated in organizing the graduating class farewell event | grade 9 |
 
 ---
 
