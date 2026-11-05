@@ -157,6 +157,23 @@ Passionate about technology, continuous improvement, and developing reliable sol
 | Language Training | English Cafe | Completed English Language Course – Level 2 and Level 3 | 2023 |
 | Computer Training | Web Design Course | Attended Additional Computer Training in Web Design | 2023 |
 
+### Certifications & Professional Training
+
+| Category | Certification / Course | Issuing Organization | Period |
+| :--- | :--- | :--- | :--- |
+| Microsoft & Data | Microsoft Office Specialist: Word 2019 Associate | Microsoft | 2023 |
+| Data Engineering | Belajar Penerapan Data Science dengan Microsoft Fabric | Dicoding | 2026 |
+| Generative AI | Membangun Aplikasi Generative AI dengan Microsoft Azure | Dicoding | 2026 |
+| SQL | SQL Basic – Advanced | HackerRank | 2025 |
+| Data Analytics | Introduction to Data Analytics | RevoU | 2026 |
+| Data Science | Introduction to Data Science | DQLab | 2025 |
+| Artificial Intelligence | Introduction to Artificial Intelligence | IBM SkillsBuild | 2026 |
+| Generative AI | Introduction to Generative AI | IBM SkillsBuild | 2026 |
+| AI Ethics | AI Ethics | IBM SkillsBuild | 2026 |
+| Deep Learning | Deep Learning | IBM SkillsBuild | 2026 |
+| Software Engineering | Software Engineering Mini Course | RevoU | 2025 |
+| Cloud & Data | BigQuery, Data Warehouse & Cloud Security | Google Cloud / Dicoding | 2025 |
+
 ### SMA Negeri 1 Dompu
 **Senior High School (Science 1)** | 2017 – 2019
 
