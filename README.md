@@ -155,7 +155,7 @@ Passionate about technology, continuous improvement, and developing reliable sol
 | Category | Institution / Program | Description | Period |
 | :--- | :--- | :--- | :--- |
 | Language Training | English Cafe | Completed English Language Course – Level 2 and Level 3 | 2023 |
-| Computer Training | Web Design Course | Attended Additional Computer Training in Web Design | 2023 |
+| Computer Training | IMKOM Yogyakarta | Attended Additional Computer Training in Web Design | 2023 |
 
 ### Certifications & Professional Training
 
