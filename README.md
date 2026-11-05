@@ -154,8 +154,8 @@ Passionate about technology, continuous improvement, and developing reliable sol
 
 | Category | Institution / Program | Description | Period |
 | :--- | :--- | :--- | :--- |
-| Language Training | English Cafe | Completed English Language Course – Level 2 and Level 3 | Post-Graduation |
-| Computer Training | Web Design Course | Attended Additional Computer Training in Web Design | Post-Graduation |
+| Language Training | English Cafe | Completed English Language Course – Level 2 and Level 3 | 2023 |
+| Computer Training | Web Design Course | Attended Additional Computer Training in Web Design | 2023 |
 
 ### SMA Negeri 1 Dompu
 **Senior High School (Science 1)** | 2017 – 2019
