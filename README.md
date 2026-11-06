@@ -1,6 +1,6 @@
 👋 Hi, I’m Imammul Arif
 
-Product Operations | Data Analyst | SQL Specialist
+**Product Operations | Data Analyst | SQL Specialist**
 
 Bachelor of Informatics with professional experience in product operations, application support, data operations, incident management, and data processing across fintech and telecommunications environments.
 
