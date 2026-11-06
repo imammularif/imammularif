@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Imammul Arif
+👋 Hi, I’m Imammul Arif
 
-**Application Support & Data Operations Specialist | SQL & Python | Data Analytics**
+Product Operations | Data Analyst | SQL Specialist
 
-Bachelor of Informatics with professional experience in application support, IT operations, incident management, database management, and data processing across fintech and telecommunications environments.
+Bachelor of Informatics with professional experience in product operations, application support, data operations, incident management, and data processing across fintech and telecommunications environments.
 
-Previously worked with **PLN Icon Plus** and **PT Bank Raya Indonesia Tbk**, supporting business-critical applications, troubleshooting operational issues, analyzing incidents, executing SQL queries, and collaborating with cross-functional teams to maintain system reliability and operational efficiency.
+Previously worked at PLN Icon Plus and PT Bank Raya Indonesia Tbk, supporting business-critical applications, monitoring operational processes, analyzing incidents, performing SQL-based data investigations, and collaborating with cross-functional teams to maintain service reliability and operational efficiency.
 
-Experienced in working with relational databases, operational reporting, data validation, and application monitoring. Interested in leveraging SQL, Python, and data analytics to solve technical problems and improve business processes.
+Experienced in SQL, Python, relational databases, operational reporting, data validation, and application monitoring. Skilled in translating operational issues and business requirements into structured analysis, actionable insights, and practical technical solutions.
 
-**Core Interests:** Data Engineering, Business Intelligence, Data Analytics, and AI/ML, with a focus on building practical solutions through hands-on projects and continuous learning.
+Core Interests: Product Operations, Data Analytics, Business Intelligence, Data Engineering, and Application Support, with a focus on leveraging data and technology to improve product performance, operational efficiency, and business processes.
 
-Passionate about technology, continuous improvement, and developing reliable solutions that connect data, applications, and business operations.
+Passionate about continuous learning, problem-solving, and building practical solutions that connect products, data, technology, and business operations.
 
 ---
 
